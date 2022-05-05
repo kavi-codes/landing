@@ -1,0 +1,29 @@
+.banner {
+  background-image: url("../../images/background.png");
+  background-position: center;
+  background-size: cover;
+  color: white;
+  padding: 200px 0;
+}
+
+.container {
+  margin: auto 40px;
+}
+
+.btn-primary {
+  border: 1px solid #999999;
+  color: #999999;
+  border-radius: 50px;
+  display: inline-block;
+  padding: 15px 25px;
+  opacity: 0.6;
+  background-color: white;
+  transition: background-color 0.3s ease;
+}
+.btn-primary:hover {
+  opacity: 1
+}
+
+.container h3 {
+  font-weight: lighter;
+}
